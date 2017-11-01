@@ -15,7 +15,6 @@ ipython==5.5.0
 ipython-genutils==0.2.0
 Jinja2==2.9.6
 jinja2-time==0.2.0
--e git+https://github.com/allanliebold/py-learning-journal-test.git@cfdd34f4ec9281b6606156d8d82877262b812675#egg=learning_journal
 Mako==1.0.7
 MarkupSafe==1.0
 PasteDeploy==1.5.2
